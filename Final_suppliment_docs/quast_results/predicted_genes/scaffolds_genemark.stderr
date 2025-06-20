@@ -1,0 +1,2 @@
+Can't locate FindBin.pm in @INC (you may need to install the FindBin module) (@INC contains: /home/sami/quast-5.3.0/quast_libs/genemark-es/lib /usr/local/lib64/perl5/5.32 /usr/local/share/perl5/5.32 /usr/lib64/perl5/vendor_perl /usr/share/perl5/vendor_perl /usr/lib64/perl5 /usr/share/perl5) at /home/sami/quast-5.3.0/quast_libs/genemark-es/linux_64/gmes_petap.pl line 71.
+BEGIN failed--compilation aborted at /home/sami/quast-5.3.0/quast_libs/genemark-es/linux_64/gmes_petap.pl line 71.
